@@ -1,4 +1,0 @@
-dependencies {
-    compile project(':SpringBoot-Support')
-    compile('org.springframework.boot:spring-boot-starter-activemq')
-}

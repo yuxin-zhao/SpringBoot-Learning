@@ -1,3 +1,0 @@
-dependencies {
-    compile project(':SpringBoot-Grpc:SpringBoot-Grpc-Lib')
-}

@@ -1,4 +1,0 @@
-dependencies {
-    compile project(':SpringBoot-Support')
-    compile 'com.github.brainlag:nsq-client:1.0.0.RC4'
-}
